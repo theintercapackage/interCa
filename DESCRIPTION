@@ -1,0 +1,19 @@
+Package: interCa
+Type: Package
+Title: Automatic interpretation of the results of the multiple correspondence analysis method.
+Version: 0.1.0
+Depends: tidyverse,ggrepel,ggplot2,FactoMineR,ca,plotly,this.path,egg,soc.ca,factoextra,CAinterprTools,DT,shiny,readxl,pander,shinyFeedback,waiter,shinyWidgets, writexl,readr,openxlsx 
+Imports: tidyverse,ggrepel,ggplot2,FactoMineR,ca,plotly,this.path,egg,soc.ca,factoextra,CAinterprTools,DT,shiny,readxl,pander,shinyFeedback,waiter,shinyWidgets, writexl,readr,openxlsx 
+Author: S.Moschidis, A.Markos
+Maintainer: Stratos Moschidis <smos@uom.edu.gr>
+Description: The package includes a number of functions 
+    that calculate the coordinates of the interpretive points 
+    ,prints interpretive axes and interpretive planes. The package also includes 
+    a Shiny app with which the user can perform all of these 
+    actions using a graphical interface and download corresponding 
+    graphs, tables, and ready-made reports.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+
+
