@@ -2,7 +2,7 @@
 
 #### In order to download and install the package use the devtools package.
 
-#### devtools::install_github("intercaPackage/interca")
+#### devtools::install_github("theintercapackage/interCa")
 
 #### In order to start the Shiny app type:
 
